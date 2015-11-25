@@ -1,2 +1,2 @@
-# PowerShell-MamlGenerator
-Custom attributes and console application used to generate a PowerShell help file (MAML) given an assembly using the provided attributes.
+# PowerShell-CopyAsHtmlAddOn
+This is a custom Windows PowerShell ISE V3 Add-On which allows you to copy selected text as HTML.
